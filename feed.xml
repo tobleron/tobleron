@@ -3,29 +3,29 @@
     <title>My Time</title>
     <link href="https://tobleron.github.io/mytime/feed.xml" rel="self" />
     <link href="https://tobleron.github.io/mytime" />
-    <updated>2019-06-17T08:24:32+02:00</updated>
+    <updated>2019-06-17T08:28:22+02:00</updated>
     <author>
         <name>Arto Kalishian</name>
     </author>
     <id>https://tobleron.github.io/mytime</id>
 
     <entry>
-        <title>Test</title>
+        <title>Fresh Test 17 June</title>
         <author>
             <name>Arto Kalishian</name>
         </author>
-        <link href="https://tobleron.github.io/mytime/test.html"/>
-        <id>https://tobleron.github.io/mytime/test.html</id>
+        <link href="https://tobleron.github.io/mytime/fresh-test-17-june.html"/>
+        <id>https://tobleron.github.io/mytime/fresh-test-17-june.html</id>
 
-        <updated>2019-06-16T20:18:39+02:00</updated>
+        <updated>2019-06-17T08:28:06+02:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                    Lorem ipsum blah blah blah. Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah. The quick brown fox jumps over the lazy dog.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <span class="md-plain md-expand">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</span> <span class="md-plain">incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</span> <span class="md-plain">nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span> <span class="md-plain">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</span> <span class="md-plain">eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt</span> <span class="md-plain">in culpa qui officia deserunt mollit anim id est laborum.</span>
+                Lorem ipsum blah blah blah. Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah.Lorem ipsum blah blah blah. The quick brown fox jumps over the lazy dog.
             ]]>
         </content>
     </entry>
