@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "My Time",
     "description": "",
-    "home_page_url": "https://tobleron.github.com/mytime",
-    "feed_url": "https://tobleron.github.com/mytime/feed.json",
+    "home_page_url": "https://tobleron.github.io/mytime",
+    "feed_url": "https://tobleron.github.io/mytime/feed.json",
     "user_comment": "",
     "author": {
         "name": "Arto Kalishian"
     },
     "items": [
         {
-            "id": "https://tobleron.github.com/mytime/test.html",
-            "url": "https://tobleron.github.com/mytime/test.html",
+            "id": "https://tobleron.github.io/mytime/test.html",
+            "url": "https://tobleron.github.io/mytime/test.html",
             "title": "Test",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
             "content_html": "<span class=\"md-plain md-expand\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</span> <span class=\"md-plain\">incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</span> <span class=\"md-plain\">nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</span> <span class=\"md-plain\">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</span> <span class=\"md-plain\">eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt</span> <span class=\"md-plain\">in culpa qui officia deserunt mollit anim id est laborum.</span>",
