@@ -1,2 +1,0 @@
-# mytime
-My blog.
